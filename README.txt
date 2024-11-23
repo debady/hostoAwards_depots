@@ -1,48 +1,33 @@
+Hosto Awards - Célébration de l'Excellence dans le Secteur de la Santé
+Ce dépôt contient le code source et les ressources du projet Hosto Awards, une plateforme interactive conçue pour honorer et célébrer les meilleurs établissements de santé en Côte d'Ivoire.
 
-TITLE: 
-Hydrogen - Responsive Free HTML5 template
+Fonctionnalités principales
+Galerie des événements : Présente les moments clés des cérémonies Hosto Awards avec des images et des descriptions.
+Système de récompenses : Met en avant les établissements gagnants et les prix, tels que l’attribution d’une ambulance.
+Organisation des événements : Gestion des détails liés à la cérémonie, y compris le lieu, les participants et les invités d'honneur.
+Design responsive : Une interface utilisateur fluide et adaptée à tous les appareils.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+    Technologies utilisées
+HTML5 / CSS3 : Pour structurer et styliser l'interface.
+JavaScript : Pour ajouter des fonctionnalités interactives.
+Bootstrap : Pour un design responsive et moderne.
+Git : Pour la gestion des versions et le travail collaboratif.
+cloudinary : pour stocker les images 
 
+        Comment contribuer ?
+Forkez ce dépôt.
+Clonez votre fork localement :
+bash
+Copier le code
+git clone https://github.com/votre-utilisateur/hosto-awards.git
 
-CREDITS:
+    Créez une nouvelle branche pour vos modifications :
+bash
+Copier le code
+git checkout -b feature/nouvelle-fonctionnalite
 
-Bootstrap
-http://getbootstrap.com/
+Effectuez vos modifications et validez-les.
+Soumettez une pull request vers le dépôt principal.
 
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon Entypo
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-Salvattore
-https://github.com/rnmp/salvattore
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-
-
+            Objectif du projet
+L’objectif est de fournir une plateforme digitale intuitive qui met en lumière les accomplissements des professionnels de la santé, tout en sensibilisant à l’importance d’un système de soins performant et accessible.
