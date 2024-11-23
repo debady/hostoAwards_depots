@@ -8314,4 +8314,49 @@ a > img.fh5co-align-center {
   margin-right: auto;
 }
 
-/*# sourceMappingURL=style.css.map */
+
+
+
+
+/* Gestion des colonnes avec Flexbox */
+
+
+@media (max-width: 768px) {
+  h1 {
+      font-size: 1.8rem;
+  }
+  h2 {
+      font-size: 1.5rem;
+  }
+  h3 {
+      font-size: 1.2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  h1 {
+      font-size: 2.5rem;
+  }
+  h2 {
+      font-size: 2rem;
+  }
+  h3 {
+      font-size: 1.6rem;
+  }
+}
+
+/* Boutons responsives */
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
