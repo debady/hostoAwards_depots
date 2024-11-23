@@ -1,4 +1,4 @@
-Hosto Awards - Célébration de l'Excellence dans le Secteur de la Santé
+HOSTO AWARDS  - Célébration de l'Excellence dans le Secteur de la Santé
 Ce dépôt contient le code source et les ressources du projet Hosto Awards, une plateforme interactive conçue pour honorer et célébrer les meilleurs établissements de santé en Côte d'Ivoire.
 
 Fonctionnalités principales
@@ -19,7 +19,7 @@ Forkez ce dépôt.
 Clonez votre fork localement :
 bash
 Copier le code
-git clone https://github.com/votre-utilisateur/hosto-awards.git
+git clone https://github.com/debady/hostoAwards_depots.git
 
     Créez une nouvelle branche pour vos modifications :
 bash
